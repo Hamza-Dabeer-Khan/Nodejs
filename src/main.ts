@@ -1,4 +1,3 @@
-"use strict";
 // import app from './app';
 //
 // const PORT = process.env.PORT || 3000;
@@ -16,4 +15,3 @@
 //     }
 //     process.exit(1);
 // });
-//# sourceMappingURL=main.js.map
